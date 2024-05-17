@@ -1,8 +1,8 @@
 # ETL_toll_data_Pipeline
 
 Scenario
-  You are a data engineer at a data analytics consulting company. You have been assigned to a project that aims to de-congest the national highways by analyzing
-  the road traffic data from different toll plazas. This project consists of the following two main parts:
+  #You are a data engineer at a data analytics consulting company. You have been assigned to a project that aims to de-congest the national highways by analyzing
+  #the road traffic data from different toll plazas. This project consists of the following two main parts:
 
 First part
   In the first part of this project, our job is to create a data pipeline that collects the streamed data and loads it into a database using Apache Kafka.

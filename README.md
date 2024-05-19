@@ -8,7 +8,7 @@ You are a data engineer at a data analytics consulting company. You have been as
 
 In the first part of this project, our job is to create a data pipeline that collects the streamed data and loads it into a database using Apache Kafka.
 
-**Note**: `As a vehicle passes a toll plaza, the vehicle's data like vehicle_id, vehicle_type, toll_plaza_id, and timestamp are streamed to Kafka.`
+**Note**: As a vehicle passes a toll plaza, the vehicle's data like vehicle_id, vehicle_type, toll_plaza_id, and timestamp are streamed to Kafka.
 
 **Part One Tasks:**
 
@@ -26,7 +26,7 @@ In the first part of this project, our job is to create a data pipeline that col
 
 In the second part of this project, our job is to collect data available in different formats and consolidate it into a single file using Apache Airflow.
 
-**Note**: `Each highway is operated by a different toll operator with different IT setups that use different file formats.`
+**Note**: Each highway is operated by a different toll operator with different IT setups that use different file formats.
 
 **Part Two Tasks:**
 

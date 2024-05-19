@@ -17,8 +17,8 @@ In the first part of this project, our job is to create a data pipeline that col
 * Start the Kafka server.
 * Install the Kafka Python driver.
 * Install the MySQL Python driver.
-* Create a Kafka topic named `toll`.
-* Create a customized generator program to stream data to the `toll` topic.
+* Create a Kafka topic named toll.
+* Create a customized generator program to stream data to the toll topic.
 * Create a customized consumer program to write data into a MySQL database table.
 * Verify that streamed data is being collected in the database table.
 
